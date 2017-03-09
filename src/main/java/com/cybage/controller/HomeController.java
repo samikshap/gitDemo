@@ -9,5 +9,6 @@ public class HomeController {
   {
 
       System.out.println("hello samiksha");
+      System.out.println("hello samiksha");
   }
 }
